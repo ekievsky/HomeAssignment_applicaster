@@ -1,0 +1,18 @@
+/* 
+  Localizables.strings
+  HomeAssignment-applicaster
+
+  Created by Evgenii Kievsky on 25.05.2020.
+  Copyright © 2020 Evgenii Kievsky. All rights reserved.
+*/
+
+// MARK: - Common
+"common.ok" = "OK";
+"common.error" = "שגיאה";
+"common.wrong_url_string_format" = "פורמט מחרוזת שגוי לסרטון";
+
+// MARK: - AssetsList
+"assets_list.title" = "חדשות";
+
+// MARK: - AssetWebView
+"assets_web_view.title" = "מאמר";
